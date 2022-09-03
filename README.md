@@ -1,2 +1,2 @@
 # todolist
-My first todolist in React
+My first todolist application in React
